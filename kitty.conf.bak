@@ -24,10 +24,7 @@ map cmd+shift+t kitten launch --type=overlay sh -c './tab-name.sh && tmux'
 # for set-colors
 allow_remote_control yes
 
-# include font-fixes.conf
-include current-theme.conf
-
 # BEGIN_KITTY_THEME
-# Catppuccin-Frappe
+# Catppuccin-Latte
 include current-theme.conf
 # END_KITTY_THEME
